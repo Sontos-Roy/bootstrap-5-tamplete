@@ -45,3 +45,7 @@ body{
     color: blue;
     background: rgba(128, 128, 128, 0.26);
 }
+.form-floating .form-control:focus{
+    border: 0 !important;
+    border-bottom: 1px solid gray;
+}
